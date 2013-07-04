@@ -1,8 +1,9 @@
 <html lang="en"><head>
     <meta charset="UTF-8">
     <title></title>
-<style id="system" type="text/css"></head>
-<body marginheight="0"><h1>找图chrome扩展</h1>
+</head>
+<body>
+<h1>找图chrome扩展</h1>
 <pre><code>日常监测网站图片，如图片超出预计大小，则需要通知编辑修改，有时候图片在某个tab切换里面，编辑总说很难找。
 故有了这个想法做一个扩展供编辑方便寻找图片，也是自己的第一次练手chrome扩展。</code></pre>
 <h2>使用方法：</h2>
